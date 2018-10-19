@@ -2,6 +2,7 @@
 *.settings
 
 credentials.yml
+credentials.yml.bak
 
 # Logs
 logs
